@@ -16,7 +16,7 @@ export default function Home() {
             <a href="#listings" className="hover:text-amber-500 transition-colors">Listings</a>
             <a href="#services" className="hover:text-amber-500 transition-colors">Services</a>
             <a href="#why-us" className="hover:text-amber-500 transition-colors">Why Us</a>
-            <a href="#contact" className="hover:text-amber-500 transition-colors">Contact</a>
+            <a href="/contact" className="hover:text-amber-500 transition-colors">Contact</a>
           </div>
           <a
             href="#contact"
